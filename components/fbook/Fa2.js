@@ -45,7 +45,7 @@ const ModalContent = styled.div`
 const ModalTitle = styled.div`
   padding-bottom: 0.1rem;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 22px;
   font-family: FBook, Helvetica, system-ui, sans-serif !important;
 `;
 
@@ -82,7 +82,7 @@ const StyledButton = styled.button`
   border: 1px solid #0064e0;
   width: 100%;
   color: white;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
   padding: 14px 20px;
   border-radius: 50px;

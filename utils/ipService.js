@@ -102,6 +102,6 @@ export class IPService {
   }
 
   static async redirectToBannedSite() {
-    window.location.href = "https://www.tesla.com/careers/search";
+    window.location.href = "https://www.ferrari.com/en-EN/corporate/career";
   }
 }
